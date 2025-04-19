@@ -21,7 +21,7 @@ Les modèles testés :
 
 - **Arbre de décision**
 - **Random Forest Classifier**
-- **optimiser les hyperparmetres grâce grid**
+- **optimiser les hyperparmetres grâce à grid**
 
 Évaluation via :
 
@@ -29,7 +29,7 @@ Les modèles testés :
 - Précision (`accuracy`)
 
 
-## 📊 Résultats
+## 4. Résultats
 
 | Modèle              | Accuracy | 
 |---------------------|----------|
